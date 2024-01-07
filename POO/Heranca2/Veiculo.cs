@@ -8,9 +8,16 @@ namespace Heranca2
 {
     internal class Veiculo
     {//Classe base
-        public int rodas;
-        public int velMax;
+        private int rodas;
+        private int velMax;
         private bool ligado;
+
+        public Veiculo(int rodas, int velMax)
+        {
+            this.rodas = rodas;
+            this.velMax = velMax;
+            
+        }
         public void Ligar()
         {
             ligado = true;
@@ -24,5 +31,45 @@ namespace Heranca2
         {
             return (ligado ? "Sim" : "Não");
         }
+        public int getRodas()
+        {
+            return rodas;
+        }
+
+        public int getVelMax()
+        {
+            return velMax;
+        }
+
+        public void setRodas(int rodas)
+        {
+            if(rodas < 0)
+            {
+                this.rodas = 0;
+            }else if(rodas > 40) 
+            {
+                this.rodas = 40;
+            }
+            else
+            {
+                this.rodas = rodas;
+            }
+        }
+        public void setVelMax(int velMax) 
+        {
+            if(velMax < 0)
+            {
+                this.velMax = 0;
+            }
+            else if (velMax > 220)
+            {
+                this.velMax = 220;
+            }
+            else
+            {
+                this.velMax = velMax;
+            }
+        }
     }
+
 }

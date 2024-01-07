@@ -10,11 +10,12 @@ namespace Heranca2
     {//Classe derivada
         public string nome;
         public string cor;
-        public Carro(string nome, string cor) 
+        public Carro(string nome, string cor): base(4, 150) 
         {
             Desligar();
-            rodas = 4;
-            velMax = 120;
+            setRodas(4);
+            setVelMax(150);
+            
             this.nome = nome;
             this.cor = cor;
         }

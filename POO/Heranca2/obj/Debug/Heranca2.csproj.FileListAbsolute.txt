@@ -1,0 +1,7 @@
+C:\Course\POO\Heranca2\obj\Debug\Heranca2.csproj.AssemblyReference.cache
+C:\Course\POO\Heranca2\obj\Debug\Heranca2.csproj.CoreCompileInputs.cache
+C:\Course\POO\Heranca2\bin\Debug\Heranca2.exe.config
+C:\Course\POO\Heranca2\bin\Debug\Heranca2.exe
+C:\Course\POO\Heranca2\bin\Debug\Heranca2.pdb
+C:\Course\POO\Heranca2\obj\Debug\Heranca2.exe
+C:\Course\POO\Heranca2\obj\Debug\Heranca2.pdb
