@@ -1,0 +1,14 @@
+C:\Course\Primeiro\ConsoleAppDotNet\bin\Release\net8.0\ConsoleAppDotNet.exe
+C:\Course\Primeiro\ConsoleAppDotNet\bin\Release\net8.0\ConsoleAppDotNet.deps.json
+C:\Course\Primeiro\ConsoleAppDotNet\bin\Release\net8.0\ConsoleAppDotNet.runtimeconfig.json
+C:\Course\Primeiro\ConsoleAppDotNet\bin\Release\net8.0\ConsoleAppDotNet.dll
+C:\Course\Primeiro\ConsoleAppDotNet\bin\Release\net8.0\ConsoleAppDotNet.pdb
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\ConsoleAppDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\ConsoleAppDotNet.AssemblyInfoInputs.cache
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\ConsoleAppDotNet.AssemblyInfo.cs
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\ConsoleAppDotNet.csproj.CoreCompileInputs.cache
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\ConsoleAppDotNet.dll
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\refint\ConsoleAppDotNet.dll
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\ConsoleAppDotNet.pdb
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\ConsoleAppDotNet.genruntimeconfig.cache
+C:\Course\Primeiro\ConsoleAppDotNet\obj\Release\net8.0\ref\ConsoleAppDotNet.dll

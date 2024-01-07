@@ -1,0 +1,7 @@
+C:\Course\Condicao\Condicao\bin\Debug\Condicao.exe.config
+C:\Course\Condicao\Condicao\bin\Debug\Condicao.exe
+C:\Course\Condicao\Condicao\bin\Debug\Condicao.pdb
+C:\Course\Condicao\Condicao\obj\Debug\Condicao.csproj.AssemblyReference.cache
+C:\Course\Condicao\Condicao\obj\Debug\Condicao.csproj.CoreCompileInputs.cache
+C:\Course\Condicao\Condicao\obj\Debug\Condicao.exe
+C:\Course\Condicao\Condicao\obj\Debug\Condicao.pdb

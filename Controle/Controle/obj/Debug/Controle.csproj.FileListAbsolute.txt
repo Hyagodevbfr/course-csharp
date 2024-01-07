@@ -1,0 +1,7 @@
+C:\Course\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Course\Controle\Controle\bin\Debug\Controle.exe
+C:\Course\Controle\Controle\bin\Debug\Controle.pdb
+C:\Course\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Course\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Course\Controle\Controle\obj\Debug\Controle.exe
+C:\Course\Controle\Controle\obj\Debug\Controle.pdb

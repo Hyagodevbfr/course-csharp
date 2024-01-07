@@ -1,0 +1,16 @@
+C:\Course\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.exe
+C:\Course\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.deps.json
+C:\Course\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.runtimeconfig.json
+C:\Course\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.dll
+C:\Course\Primeiro\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.pdb
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.Form1.resources
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.csproj.GenerateResource.cache
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.AssemblyInfoInputs.cache
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.AssemblyInfo.cs
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.dll
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\refint\OlaMundo.dll
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.pdb
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.genruntimeconfig.cache
+C:\Course\Primeiro\OlaMundo\obj\Debug\net8.0-windows\ref\OlaMundo.dll

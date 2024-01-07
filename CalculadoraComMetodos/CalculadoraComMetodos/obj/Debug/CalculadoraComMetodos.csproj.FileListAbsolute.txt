@@ -1,0 +1,7 @@
+C:\Course\CalculadoraComMetodos\CalculadoraComMetodos\bin\Debug\CalculadoraComMetodos.exe.config
+C:\Course\CalculadoraComMetodos\CalculadoraComMetodos\bin\Debug\CalculadoraComMetodos.exe
+C:\Course\CalculadoraComMetodos\CalculadoraComMetodos\bin\Debug\CalculadoraComMetodos.pdb
+C:\Course\CalculadoraComMetodos\CalculadoraComMetodos\obj\Debug\CalculadoraComMetodos.csproj.AssemblyReference.cache
+C:\Course\CalculadoraComMetodos\CalculadoraComMetodos\obj\Debug\CalculadoraComMetodos.csproj.CoreCompileInputs.cache
+C:\Course\CalculadoraComMetodos\CalculadoraComMetodos\obj\Debug\CalculadoraComMetodos.exe
+C:\Course\CalculadoraComMetodos\CalculadoraComMetodos\obj\Debug\CalculadoraComMetodos.pdb

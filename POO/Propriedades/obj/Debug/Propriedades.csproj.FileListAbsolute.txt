@@ -1,0 +1,7 @@
+C:\Course\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Course\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\Course\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\Course\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Course\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Course\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\Course\POO\Propriedades\obj\Debug\Propriedades.pdb
