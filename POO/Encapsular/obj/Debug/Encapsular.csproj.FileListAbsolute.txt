@@ -1,0 +1,7 @@
+C:\Course\POO\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Course\POO\Encapsular\bin\Debug\Encapsular.exe
+C:\Course\POO\Encapsular\bin\Debug\Encapsular.pdb
+C:\Course\POO\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Course\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Course\POO\Encapsular\obj\Debug\Encapsular.exe
+C:\Course\POO\Encapsular\obj\Debug\Encapsular.pdb
